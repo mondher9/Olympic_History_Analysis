@@ -2,7 +2,7 @@
 
 We believe in making the extraordinary visible. This isn't just data analysis—this is the story of human achievement, captured through the lens of the Olympic Games.
 
-Live demo : (Link)[https://www.youtube.com/watch?v=-S9pZ9GMwpo]
+Live demo : https://www.youtube.com/watch?v=-S9pZ9GMwpo
 
 ## The Vision
 
