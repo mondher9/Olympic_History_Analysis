@@ -2,6 +2,8 @@
 
 We believe in making the extraordinary visible. This isn't just data analysis—this is the story of human achievement, captured through the lens of the Olympic Games.
 
+Live demo : (Link)[https://www.youtube.com/watch?v=-S9pZ9GMwpo]
+
 ## The Vision
 
 We didn't just want to look at numbers. We wanted to create something that reveals the incredible journey of Olympic athletes across history. Something beautiful. Something intuitive. Something that would make you see patterns you never noticed before.
